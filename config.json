@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productppdate",
+        "uuid": 2596022,
+        "checksum": "bxnz9n"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
